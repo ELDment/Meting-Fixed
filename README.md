@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://github.com/metowolf/Meting">
 <img alt="Author" src="https://img.shields.io/badge/Author-METO&ELDment-blue.svg?style=flat-square" height="20"/>
-<img alt="Star" src="https://img.shields.io/github/stars/ELDment/Meting-New?style=for-the-badge&logo=github" height="20">
+<img alt="Star" src="https://img.shields.io/github/stars/ELDment/Meting-MusicApi-Fixed?style=for-the-badge&logo=github" height="20">
 </a>
 </p>
 
