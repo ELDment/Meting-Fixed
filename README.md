@@ -73,7 +73,7 @@ echo $data;
  - [special for netease](https://github.com/metowolf/Meting/wiki/special-for-netease)
 
 ## Join the Discussion
- - [Official website](https://github.com/ELDment/Meting-New/discussions)
+ - [discussions](https://github.com/ELDment/Meting-New/discussions)
 
 ## Related Projects
  - [metowolf/Meting](https://github.com/metowolf/Meting)
