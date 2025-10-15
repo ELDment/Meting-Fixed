@@ -80,13 +80,7 @@ echo $data;
 
 ## Related Projects
  - [metowolf/Meting](https://github.com/metowolf/Meting)
- - [MoePlayer/Hermit-X](https://github.com/MoePlayer/Hermit-X)
- - [MoePlayer/APlayer-Typecho](https://github.com/MoePlayer/APlayer-Typecho)
- - [mengkunsoft/MKOnlineMusicPlayer](https://github.com/mengkunsoft/MKOnlineMusicPlayer)
- - [webjyh/WP-Player](https://github.com/webjyh/WP-Player)
- - [yiyungent/Meting4Net](https://github.com/yiyungent/Meting4Net)
- - [injahow/meting-api](https://github.com/injahow/meting-api)
- - [mPlayer2](https://github.com/dodododooo/mPlayer2)
+ - [ELDment/NET-MusicAPI](https://github.com/ELDment/NET-MusicAPI)
 
 ## Keywords
 ```
